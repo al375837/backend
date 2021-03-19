@@ -5,6 +5,7 @@
 * FastAPI
 * Python
 * TensorFlow
+* Odmantic
 
 ## Preparación
 * Crea el virtualenviorment de python:
